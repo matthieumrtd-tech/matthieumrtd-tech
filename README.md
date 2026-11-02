@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Matthieu 👋
 
-<!--
-**matthieumrtd-tech/matthieumrtd-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building a public portfolio around practical software and open-source collaboration. I care about projects that are useful, approachable, and clearly documented.
 
-Here are some ideas to get you started:
+### What I'm exploring
+- Developer tools and AI-assisted workflows
+- Small projects with a clear user need
+- Documentation and contributor onboarding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How I like to work
+- Start with a concrete problem
+- Keep work understandable and reproducible
+- Make progress in public and learn from feedback
+
+**Current status:** setting up this profile and developing my first public project. I'll link it here once it's ready.
+
+Feedback and suggestions are welcome.
