@@ -1,17 +1,19 @@
 # Hi, I'm Matthieu 👋
 
-I'm building a public portfolio around practical software and open-source collaboration. I care about projects that are useful, approachable, and clearly documented.
+I build practical software in public and am learning open-source development by shipping small, clearly documented tools.
 
-### What I'm exploring
-- Developer tools and AI-assisted workflows
-- Small projects with a clear user need
-- Documentation and contributor onboarding
+## Featured project
 
-### How I like to work
-- Start with a concrete problem
-- Keep work understandable and reproducible
-- Make progress in public and learn from feedback
+### [RepoCare](https://github.com/matthieumrtd-tech/repocare)
 
-**Current status:** setting up this profile and developing my first public project. I'll link it here once it's ready.
+A read-only Python CLI that gives maintainers a quick snapshot of a public GitHub repository: open issues and pull requests, essential project files, and release recency. It uses the GitHub API, has no third-party runtime dependencies, and does not upload source code or call an AI service.
+
+Built in public with Codex as a coding partner. RepoCare is an early-stage project; I’m improving the documentation and looking for maintainer feedback.
+
+## What I’m working on
+
+- Making repository health easier to understand
+- Improving setup, documentation, and contributor onboarding
+- Learning through feedback and steady iteration
 
 Feedback and suggestions are welcome.
